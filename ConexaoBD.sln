@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto", "Projeto\Projeto.csproj", "{4E883978-5A09-4428-8678-348BD963B06D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/ConexaoBD\u0022,\u0020VPGAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = Projeto\\Projeto.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection1 = Projeto\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E883978-5A09-4428-8678-348BD963B06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E883978-5A09-4428-8678-348BD963B06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E883978-5A09-4428-8678-348BD963B06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E883978-5A09-4428-8678-348BD963B06D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
